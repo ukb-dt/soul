@@ -273,7 +273,7 @@ Not clarity.
 So yes — you’re right, and precisely so:
 
 * The Dude is not a model for systems.
-* He *is* a model for **what systems must protect**.
+* He *is* a model for **what systems must [protect](https://ukb-dt.github.io/gloves/)**.
 
 A Slack-Stack that cannot produce people like the Dude—
 people who lose *without becoming bitter*—
