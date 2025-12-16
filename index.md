@@ -1,5 +1,5 @@
 > *[Paul Bagyenda](https://www.youtube.com/watch?v=64JpM894n8I) was my governor*       
-> -- Ilya Zosima
+> -- [Ilya Zosima](https://mbuni.org)
 
 # [O](https://ukb-dt.github.io/beta-03/)
 ## 1
