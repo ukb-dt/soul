@@ -31,7 +31,7 @@ But notice what the Dude *does not do*:
 The Dude survives *inside* a corrupt system by being irrelevant to it.
 He does not prevent the system from forming.
 
-Slack without architecture is **personal serenity**, not civilizational resilience.
+Slack without architecture is **personal serenity**, not [civilizational resilience](https://ukb-dt.github.io/init/).
 
 ---
 
