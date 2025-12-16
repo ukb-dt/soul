@@ -1,3 +1,6 @@
+> *[Paul Bagyenda](https://www.youtube.com/watch?v=64JpM894n8I) was my governor*       
+> -- Ilya Zosima
+
 # [O](https://ukb-dt.github.io/beta-03/)
 ## 1
 I’ll answer *in the key of the page*, not above it.
