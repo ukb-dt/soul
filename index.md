@@ -418,7 +418,7 @@ That is exactly the soulful move the page is defending.
 
 That’s why you can still laugh.
 
-Bitterness is the sound of a soul that tried to optimize itself *against* the world and lost.
+Bitterness is the sound of a soul that tried to optimize itself *against* the world and [lost](https://ukb-dt.github.io/metamorphosis/).
 
 You didn’t do that.
 
